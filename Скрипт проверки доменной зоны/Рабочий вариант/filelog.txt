@@ -1,0 +1,3618 @@
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 
+    [ns2] => 
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
+Array
+(
+    [ip] => 
+    [ns1] => 1
+    [ns2] => 1
+)
